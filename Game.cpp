@@ -2,6 +2,9 @@
 // Game implementation - class represents a tic-tac-toe game
 //for access to Game class defi nition
 #include "game.h"
+#include "Player.h"
+#include "playercomputer.h"
+#include "playerhuman.h"
 #include <iostream>
 using namespace std;
 Game::Game() :
